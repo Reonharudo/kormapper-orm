@@ -1,0 +1,12 @@
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/model/KORMapper.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/annotation/Column.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/model/KORGenerator.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/exception/CommunicationException.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/exception/ParamException.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/reflection/AnnotationReflector.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/annotation/OneToOne.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/annotation/OneToMany.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/annotation/Table.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/annotation/MappingConstructor.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/exception/KORException.java
+/Users/leonhardmuellauer/Documents/Workspace_MUELLAUER/kormapper/src/main/java/com/kormapper/model/Mode.java

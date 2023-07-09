@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.kormapper.annotation"},{"l":"com.kormapper.exception"},{"l":"com.kormapper.model"},{"l":"com.kormapper.ormapper"}]

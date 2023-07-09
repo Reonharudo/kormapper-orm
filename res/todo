@@ -1,0 +1,10 @@
+Project Shinjuku:
+-) Query --> Progress: 100%
+-) Insert --> Progress: 100%
+-) Update --> Progress: 100%
+-) Delete --> Progress: 100%
+
+Project Ginza:
+-) Added ModularKORMapper - 90%
+-) Developer friendly exception throwing/messages - 0%
+Internal tests will show that the ModularKORMapper is the true successor of the KORMapper

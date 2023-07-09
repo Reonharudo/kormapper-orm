@@ -1,0 +1,12 @@
+com/kormapper/annotation/MappingConstructor.class
+com/kormapper/annotation/Column.class
+com/kormapper/annotation/OneToOne.class
+com/kormapper/exception/CommunicationException.class
+com/kormapper/exception/KORException.class
+com/kormapper/exception/ParamException.class
+com/kormapper/reflection/AnnotationReflector.class
+com/kormapper/annotation/Table.class
+com/kormapper/model/KORMapper.class
+com/kormapper/annotation/OneToMany.class
+com/kormapper/model/Mode.class
+com/kormapper/model/KORGenerator.class
